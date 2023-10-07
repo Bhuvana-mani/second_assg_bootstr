@@ -10,6 +10,8 @@ body {
 .container {
     display: flex;
   }
+
+
 .image-box {
     margin-right: 1px;
 }
@@ -32,3 +34,59 @@ body {
     background-color: #f0d6d6;
 
 }
+
+.carousel-image {
+    max-width: 100%; /* Set the maximum width to 100% of the parent container */
+    max-height: 600px; /* Set the maximum height (adjust the value as needed) */
+    margin: 0 auto; /* Center the image within the carousel item */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
